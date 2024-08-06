@@ -1,1 +1,50 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.11.43",
+        "integrations_version": "v1.12.0",
+        "patches_version": "v4.12.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.12.0",
+        "ms_epoch_since_patched": 1722926119101,
+        "date_patched": "2024-08-06 06:35:19.101487+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.11.43",
+            "experiment": true,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "a03a152324ac8639eac25b6564cd089430e2c6d6abe4da735dadc3f657d278ab.apk",
+                    "version": "v1.12.0"
+                },
+                "patches": {
+                    "file_name": "42d9ded5b8141dd049969fcc263f5d0c0d01a2978a53cb6aff645a7a2101fc6c.jar",
+                    "version": "v4.12.0"
+                },
+                "patches_json": {
+                    "file_name": "725b82f12f8cdcc719f01a7797d29bf88131168a9a7c6e2476654a6cca500675.json",
+                    "version": "v4.12.0"
+                }
+            },
+            "no_of_patches": 62,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=5972564&key=cd117227e8c685cf7a5037f3d702a30ba3ca14e0&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "space_formatted": true
+        }
+    }
+}
